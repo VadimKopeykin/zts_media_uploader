@@ -21,6 +21,8 @@ This plugin will allow adding media uploads anywhere on the Wordpress Dashboard 
 </div>
 ```
 
+
+
 ## Updates 
 
  ### Version 0.4 
