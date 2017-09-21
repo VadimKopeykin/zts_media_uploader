@@ -15,9 +15,9 @@ This plugin will allow adding media uploads anywhere on the Wordpress Dashboard 
 <div class="image_content">
     <div class="preview">
         <img id="previewBlock"  src="" />
-        <input type="button" class="zts_media_uploader_button" data-to-upload="#previewBlock" data-media-id="#mediaImageID" data-type="src" value="Upload Image">
-        <input type="hidden" id="mediaImageID">
     </div>
+    <input type="button" class="zts_media_uploader_button" data-to-upload="#previewBlock" data-media-id="#mediaImageID" data-type="src" value="Upload Image">
+    <input type="hidden" id="mediaImageID">
 </div>
 ```
 
