@@ -23,5 +23,4 @@ if(!class_exists("ZtsMediaUploaderSimple")){
     }
 
 }
-
 new ZtsMediaUploaderSimple();
